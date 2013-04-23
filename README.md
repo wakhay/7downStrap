@@ -27,7 +27,8 @@ Tested on:
 - IE 9
 
 Credits:
-  	1) front-end framework:
+
+	1) front-end framework:
 		- Twitter Bootstrap (http://twitter.github.io/bootstrap/)
 
 	2) Icons:
