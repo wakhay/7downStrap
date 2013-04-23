@@ -47,3 +47,5 @@ I WOULD APPRECIATE:
 Have fun!
 
 //@7php
+
+-- "I consider that the golden rule requires that if I like a program I must share it with other people who like it" ~ Richard Stallman
